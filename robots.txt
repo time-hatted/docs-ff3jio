@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-e1arvf.codextown.xyz/sitemap.xml
